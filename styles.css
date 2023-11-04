@@ -73,14 +73,20 @@ nav a:hover {
     color: white;
     display: flex;
     align-items: center;
-    justify-content: space-between;
     padding: 20px;
-    border-radius: 5px;
+    
 }
+.testing .testing-desciption {
+    flex: 1; 
+}
+
+.testing .cta {
+    display: inline-block; }
 
 .testing .cta .btn {
     background-color: #48BB78;
-    color: white;
+    padding: 15px 30px;
+    color: whte;
     border-radius: 5px;
     text-decoration: none; /* for some reason was underlined */
 

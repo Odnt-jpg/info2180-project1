@@ -24,7 +24,7 @@ nav {
     display: flex;
     position: absolute;
     top: 0;
-    right : 0;
+    right : 20;
 }
 nav ul {
     display: flex; 

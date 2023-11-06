@@ -24,7 +24,8 @@ nav {
     display: flex;
     position: absolute;
     top: 0;
-    right : 20;
+    right : 0;
+    padding: 20px;
 }
 nav ul {
     display: flex; 
@@ -110,7 +111,10 @@ nav a:hover {
     float: right;
     width: 30%;
     margin-top: 90px
-     }
+ }
+.form{
+    display: flex;
+}
 
 .testing .cta .btn {
     background-color: #48BB78;
@@ -156,6 +160,8 @@ nav a:hover {
 .newsletter button {
     margin: 10px;
 }
+
+
 
 .newsletter button {
     background-color: #5A67D8;
